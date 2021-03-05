@@ -5,7 +5,7 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 --------------------
 
 
-## Ambientes de Desenvolvimento e Referências 
+## **Ambientes de Desenvolvimento e Referências**
 
 * IDE:    **VS2019**
 * .NET FrameWork Version: **4.7.2**
@@ -15,7 +15,7 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 
 
 
-## Entity Framework Core
+## **Entity Framework Core**
 
 [![latest version](https://img.shields.io/nuget/v/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) [![preview version](https://img.shields.io/nuget/vpre/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) [![downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
@@ -32,6 +32,8 @@ dotnet add package Microsoft.EntityFrameworkCore.Cosmos
 ```
 
 Use a opção `--version` para especificar a [versão preview](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) para instalar.
+
+
 
 # Como Usar o Projeto ASP.NET MVC 
 
