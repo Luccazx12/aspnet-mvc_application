@@ -50,6 +50,7 @@ Install-Package EntityFramework
 (Recomendo deixar o name como está **(name="TFConnectionString")**, para evitar mais mudanças no código e no TFContext, mas fica a seu critério.
 
 4 - Ajuste o código, inserindo suas Models, Controllers e Views como desejar.
+[ASP.NET MVC - MICROSOFT](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 
 5 - Execute os seguintes comandos para criar seu Banco de Dados:
 
