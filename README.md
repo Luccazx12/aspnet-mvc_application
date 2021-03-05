@@ -2,14 +2,17 @@
 Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 
 # Requisitos
+--------------------
+
 
 # Ambientes de Desenvolvimento e Referências 
-
+--------------------
 * IDE:    **VS2019**
 * .NET FrameWork Version: **4.7.2**
 * MVC Version: **5.2.7**
 * ORM: **Entity Framework 6.0**
 * DB:     **SQLSERVER19 - SSMS18.8**
+
 
 
 ## Entity Framework Core
