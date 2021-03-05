@@ -51,7 +51,11 @@ Install-Package EntityFramework
 
 4 - Ajuste o código, inserindo suas Models, Controllers e Views como desejar.
 
-[ASP.NET MVC - MICROSOFT](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
+[Adicionando uma MODEL - ASP.NET MVC (Microsoft)](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio)
+
+[Adicionando um Controller - ASP.NET MVC (Microsoft)](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-5.0&tabs=visual-studio)
+
+[Adicionando uma View - ASP.NET MVC (Microsoft)](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/adding-view?view=aspnetcore-5.0&tabs=visual-studio)
 
 
 
