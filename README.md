@@ -1,2 +1,2 @@
 # aspnet-mvc_application
-Aplicação ASP.NET MVC + Entity Framework com banco de dados modelado
+Aplicação ASP.NET MVC + Entity Framework com modelação de banco de dados
