@@ -11,7 +11,7 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 * .NET FrameWork Version: **4.7.2**
 * MVC Version: **5.2.7**
 * ORM: **Entity Framework 6.0**
-* DB:     **SQLSERVER19 - SSMS18.8**
+* DB:     **SQL SERVER version 15.0.2 - SSMS18.8**
 
 
 
