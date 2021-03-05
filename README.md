@@ -2,7 +2,7 @@
 Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 
 # Requisitos
---------------------
+
 
 
 ## **Ambientes de Desenvolvimento e Referências**
