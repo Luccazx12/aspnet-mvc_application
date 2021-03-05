@@ -66,4 +66,4 @@ Enable-Migrations
 Add-Migration (NOME QUE DESEJAR, PRIMEIRO RELEASE PRO SEU BANCO DE DADOS)
 update-database
 ```
-Pronto, agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo nome definido no **Initial Catalog (Passo 3)**.
+Pronto! Agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo nome definido no **Initial Catalog (Passo 3)**.
