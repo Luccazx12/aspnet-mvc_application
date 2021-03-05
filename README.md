@@ -12,11 +12,11 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de banco de dados
 
 [![latest version](https://img.shields.io/nuget/v/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) [![preview version](https://img.shields.io/nuget/vpre/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) [![downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
-EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. EF Core works with SQL Server, Azure SQL Database, SQLite, Azure Cosmos DB, MySQL, PostgreSQL, and other databases through a provider plugin API.
+EF Core é um mapeador de banco de dados de objetos moderno para .NET. Ele oferece suporte a consultas LINQ, controle de alterações, atualizações e migrações de esquema. EF Core funciona com SQL Server, banco de dados SQL do Azure, SQLite, banco de dados Azure Cosmos, MySQL, PostgreSQL e outros bancos de dados por meio de uma API de plug-in do provedor. 
 
 ### Installation
 
-EF Core is available on [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore). Install the provider package corresponding to your target database. See the [list of providers](https://docs.microsoft.com/ef/core/providers/) in the docs for additional databases.
+EF Core está disponível em: [NuGet](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore). Instale o pacote do provedor correspondente ao seu banco de dados de destino. OLhe a  [lista de provedores](https://docs.microsoft.com/ef/core/providers/) nos documentos para bancos de dados adicionais.
 
 ```sh
 Install-Package EntityFramework
@@ -25,4 +25,4 @@ dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 dotnet add package Microsoft.EntityFrameworkCore.Cosmos
 ```
 
-Use the `--version` option to specify a [preview version](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) to install.
+Use a opção `--version` para especificar a [preview version](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) para instalar.
