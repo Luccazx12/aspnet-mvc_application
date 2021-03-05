@@ -1,13 +1,13 @@
 # aspnet-mvc_application
 Aplicação ASP.NET MVC + Entity Framework com modelação de banco de dados
 
-## Requisitos
+# Requisitos
 
-### Visual Studio 2019
+## Visual Studio 2019
 
-### Microsoft SQL Server Management Studio 18
+## Microsoft SQL Server Management Studio 18
 
-### Entity Framework Core
+## Entity Framework Core
 --------------------
 
 [![latest version](https://img.shields.io/nuget/v/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) [![preview version](https://img.shields.io/nuget/vpre/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) [![downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
