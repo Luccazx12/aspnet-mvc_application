@@ -47,7 +47,7 @@ Install-Package EntityFramework
 ```sh
 <add name="**(Como será referênciada no seu código essa conexão)**" connectionString="Data Source=**(NOME-DO-SEU-PC)**; Language=Brazilian; Initial Catalog=**(Nome do Banco de dados que será criado)**; Integrated Security=True" providerName="System.Data.SqlClient" />
 ```
-(Recomendo deixar o name como está (name="TFConnectionString"), para evitar mais mudanças no código e no TFContext, mas fica a seu critério.
+(Recomendo deixar o name como está *(name="TFConnectionString")*, para evitar mais mudanças no código e no TFContext, mas fica a seu critério.
 
 4 - Ajuste o código, inserindo suas Models, Controllers e Views como desejar.
 
