@@ -33,6 +33,8 @@ dotnet add package Microsoft.EntityFrameworkCore.Cosmos
 
 Use a opção `--version` para especificar a [versão preview](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) para instalar.
 
+Para mais info: [Introdução ao EF Core em um aplicativo Web ASP.NET MVC](https://docs.microsoft.com/pt-br/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0)
+
 
 
 # Como Usar o Projeto ASP.NET MVC 
