@@ -6,11 +6,11 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de banco de dados
 # Ambientes de desenvolvimento e Referências 
 
 * IDE:    **VS2019**
-* NET Version: **4.5**
-* MVC Version: **5.2**
-* ORM: **Entity Framework 6.1**
-* Json Serialization: **Newtonsoft 8.0.1**
-* Unit Tests: **NUnit 2.5.10**
+* .NET FrameWork Version: **4.7.2**
+* MVC Version: **5.2.7**
+* ORM: **Entity Framework 6.0**
+* DB:     **SQLSERVER19 - SSMS18.8**
+
 
 ## Entity Framework Core
 --------------------
