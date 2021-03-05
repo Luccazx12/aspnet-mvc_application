@@ -33,8 +33,29 @@ dotnet add package Microsoft.EntityFrameworkCore.Cosmos
 
 Use a opção `--version` para especificar a [versão preview](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) para instalar.
 
-Dentro do seu projeto no Visual Studio, insira o seguinte código no *Package Manager Console*:
+# Como Usar o Projeto ASP.NET MVC 
+
+1 - Baixe o repositório.
+2 - Dentro do seu projeto no Visual Studio, insira o seguinte código no *Package Manager Console*:
 
 ```sh
 Install-Package EntityFramework
 ```
+
+3 - Faça as seguintes mudanças no arquivo Web.Config:
+
+```sh
+<add name="**(Como será referênciada no seu código essa conexão)**" connectionString="Data Source=**(NOME-DO-SEU-PC)**; Language=Brazilian; Initial Catalog=**(Nome do Banco de dados que será criado)**; Integrated Security=True" providerName="System.Data.SqlClient" />
+```
+(Recomendo deixar o name como está (name="TFConnectionString"), para evitar mais mudanças no código e no TFContext, mas fica a seu critério.
+
+4 - Ajuste o código, inserindo suas Models, Controllers e Views como desejar.
+
+5 - Execute os seguintes comandos para criar seu Banco de Dados:
+
+```sh
+Enable-Migrations
+Add-Migration (NOME QUE DESEJAR, PRIMEIRO RELEASE PRO SEU BANCO DE DADOS)
+update-database
+```
+Pronto, agora será criada uma DataBase no seu Servidor de Banco de Dados pelo nome definido no Initial Catalog (Passo 3).
