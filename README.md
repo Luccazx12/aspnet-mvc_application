@@ -74,6 +74,5 @@ update-database
 ```
 Pronto! Agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo nome definido no **Initial Catalog (Passo 3)**.
 <p align="center"> 
-![Image](https://raw.githubusercontent.com/Luccazx12/aspnet-mvc_application/main/docs/Screenshots/banco_de_dados/Universidadedb.JPG)
+<img src="https://raw.githubusercontent.com/Luccazx12/aspnet-mvc_application/main/docs/Screenshots/banco_de_dados/Universidadedb.JPG">
 </p>
-
