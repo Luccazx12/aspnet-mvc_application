@@ -40,6 +40,7 @@ Para mais info: [Introdução ao EF Core em um aplicativo Web ASP.NET MVC](https
 # Como Usar o Projeto ASP.NET MVC 
 
 1 - Baixe o repositório.
+
 2 - Dentro do seu projeto no Visual Studio, insira o seguinte código no *Package Manager Console*:
 
 ```sh
