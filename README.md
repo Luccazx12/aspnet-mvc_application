@@ -73,6 +73,6 @@ Add-Migration (NOME QUE DESEJAR, PRIMEIRO RELEASE PRO SEU BANCO DE DADOS)
 update-database
 ```
 Pronto! Agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo nome definido no **Initial Catalog (Passo 3)**.
-<p align="center"> 
+
 <img src="https://raw.githubusercontent.com/Luccazx12/aspnet-mvc_application/main/docs/Screenshots/banco_de_dados/dbUniversidade.JPG">
-</p>
+
