@@ -6,7 +6,7 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 
 
 # Ambientes de Desenvolvimento e Referências 
---------------------
+
 * IDE:    **VS2019**
 * .NET FrameWork Version: **4.7.2**
 * MVC Version: **5.2.7**
@@ -16,7 +16,6 @@ Aplicação ASP.NET MVC + Entity Framework com modelação de Banco de Dados
 
 
 ## Entity Framework Core
---------------------
 
 [![latest version](https://img.shields.io/nuget/v/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore) [![preview version](https://img.shields.io/nuget/vpre/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/absoluteLatest) [![downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
