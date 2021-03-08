@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=KQ3CAUnDaSM&t=4215s
 * MVC Version: **5.2.7**
 * ORM: **Entity Framework 6.0**
 * DB:     **SQL SERVER version 15.0.2 - SSMS18.8**
-* Pacotes: **pasta *Packages* **
+* Pacotes: **pasta *Packages***
 
 
 
