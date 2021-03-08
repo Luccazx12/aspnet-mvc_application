@@ -89,3 +89,9 @@ update-database
 Pronto! Agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo nome definido no **Initial Catalog (Passo 3)**.
 
 <img src="https://raw.githubusercontent.com/Luccazx12/aspnet-mvc_application/main/docs/Screenshots/banco_de_dados/Universidadedb.JPG">
+
+
+## Capturas de Tela
+
+[Aplicação Rodando](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/aplicacao_rodando)
+[SQL Server Management Studio 18](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/banco_de_dados)
