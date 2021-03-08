@@ -93,5 +93,5 @@ Pronto! Agora será criada uma *DataBase* no seu Servidor de Banco de Dados pelo
 
 ## Capturas de Tela
 
-*[Aplicação Rodando](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/aplicacao_rodando)
-*[SQL Server Management Studio 18](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/banco_de_dados)
+* [Aplicação Rodando](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/aplicacao_rodando)
+* [SQL Server Management Studio 18](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/docs/Screenshots/banco_de_dados)
