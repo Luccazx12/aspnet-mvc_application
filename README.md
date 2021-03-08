@@ -1,5 +1,5 @@
 # aspnet-mvc_application
-Aplicação **WEB** ASP.NET MVC + Entity Framework + modelação de Banco de Dados criado com base no Tutorial:
+Aplicação **WEB** ASP.NET MVC + Bootstrap + Entity Framework + modelação de Banco de Dados criado com base no Tutorial:
 
 https://www.youtube.com/watch?v=KQ3CAUnDaSM&t=4215s
 
