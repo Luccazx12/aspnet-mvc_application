@@ -1,5 +1,5 @@
 # aspnet-mvc_application
-Aplicação **WEB** ASP.NET MVC + Bootstrap + Entity Framework + modelação de Banco de Dados criado com base no Tutorial:
+Aplicação **WEB** ASP.NET MVC + **Bootstrap** + Entity Framework + modelação de Banco de Dados criado com base no Tutorial:
 
 https://www.youtube.com/watch?v=KQ3CAUnDaSM&t=4215s
 
@@ -47,7 +47,8 @@ A utilização do padrão MVC trás como benefício isolar as regras de negócio
 
 
   >*Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile..*   
-  
+
+[Ler mais](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
 
 # Como Usar o Projeto ASP.NET MVC 
 
