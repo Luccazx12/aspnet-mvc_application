@@ -13,7 +13,9 @@ https://www.youtube.com/watch?v=KQ3CAUnDaSM&t=4215s
 * .NET FrameWork Version: **4.7.2**
 * MVC Version: **5.2.7**
 * ORM: **Entity Framework 6.0**
-* DB:     **SQL SERVER version 15.0.2 - SQL Server Management Studio 18**
+* DB:     **SQL SERVER version 15.0.2
+
+SQL Server Management Studio 18**
 * Pacotes necessários: **[Packages](https://github.com/Luccazx12/aspnet-mvc_application/tree/main/packages)**
 
 
