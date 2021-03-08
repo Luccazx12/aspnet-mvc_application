@@ -46,9 +46,9 @@ O MVC é utilizado em muitos projetos devido à arquitetura que possui, o que po
 A utilização do padrão MVC trás como benefício isolar as regras de negócios da lógica de apresentação, a interface com o usuário. Isto possibilita a existência de várias interfaces com o usuário que podem ser modificadas sem que haja a necessidade da alteração das regras de negócios, proporcionando assim muito mais flexibilidade e oportunidades de reuso das classes.
 
 
-  >*Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile..*   
+  >*Uma das características de um padrão de projeto é poder aplicá-lo em sistemas distintos. O padrão MVC pode ser utilizado em vários tipos de projetos como, por exemplo, desktop, web e mobile.. [Ler mais](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)*   
 
-[Ler mais](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
+
 
 # Como Usar o Projeto ASP.NET MVC 
 
